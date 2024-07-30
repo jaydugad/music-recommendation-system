@@ -1,4 +1,4 @@
-# music-recommendation-system
+# Music Recommendation System
 Welcome to the Music Recommendation System repository! This project is a web-based application designed to enhance your music listening experience by providing tailored music recommendations based on your preferences. The system leverages advanced techniques such as vectorization and cosine similarity to find and suggest songs that are similar to what you like.
 
 # Features
